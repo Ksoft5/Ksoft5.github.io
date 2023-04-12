@@ -1,2 +1,3 @@
-# work
-preparing a website
+# My personal website
+
+http://tomlogan.co.nz
